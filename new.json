@@ -1,6 +1,6 @@
 {
-	'name':'Nikita',
-	'age':29,
-	'numberOfPets':2,
-	'desiredSalary':'700$'
+	"name":"Nikita",
+	"age":29,
+	"numberOfPets":2,
+	"desiredSalary":"700$"
 }
